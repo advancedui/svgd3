@@ -1,0 +1,16 @@
+html {
+	min-height: 100%;
+}
+
+body {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#svgContainer {
+	border: 1px solid #ccc;
+	height: 500px;
+	width: 95%;
+}
